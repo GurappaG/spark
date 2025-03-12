@@ -1,2 +1,0 @@
-# spark
-Data science enthusiast
